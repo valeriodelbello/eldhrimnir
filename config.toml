@@ -68,8 +68,8 @@ series = true
 series_items = 9 # Max number of items to display in series list, use 0 to disable
 #Series_parts = "$NUMBER_OF_PARTS part Series"
 
-meta_index = { position="top", size="s90", author=false, readtime=true, readstring="min read", date=true, updated=true, categories_tags=false, divider="&bull;" }
-meta_post = { position="top", size="s90", author=false, readtime=true, readstring="min read", date=true, updated=true, categories_tags=false, divider="&bull;" }
+meta_index = { position="top", size="s90", author=false, readtime=true, readstring="min", date=true, updated=true, categories_tags=false, divider="&bull;" }
+meta_post = { position="top", size="s90", author=false, readtime=true, readstring="min", date=true, updated=true, categories_tags=false, divider="&bull;" }
 
 hide_section_dates = false # hides the date for sections that use posts.html as their template.
 hide_page_nextprev_titles = false # hides the next/previous titles for pages that use page.html as their template.
@@ -163,21 +163,21 @@ pwa = false # true to load the service worker
 ###############################################################################
 
 ### To disable any of these icons set them to "false" (will default to unicode icons instead)
-#icon_search = "svgs search" # Search button in search box.
-#icon_adjust = "svgs adjust" # Theme Switcher button in top menu. (add class svgh to change colors on hover)
-#icon_first = "svgs svgh angll" # Pagination First Page.
-#icon_prev = "svgs svgh angl" # Pagination Previous Page.
-#icon_next = "svgs svgh angr" # Pagination Next Page.
-#icon_last = "svgs svgh angrr" # Pagination Last Page.
-#icon_top = "svgs svgh angu" # Back to Top Button.
+icon_search = "svgs search" # Search button in search box.
+icon_adjust = "svgs adjust" # Theme Switcher button in top menu. (add class svgh to change colors on hover)
+icon_first = "svgs svgh angll" # Pagination First Page.
+icon_prev = "svgs svgh angl" # Pagination Previous Page.
+icon_next = "svgs svgh angr" # Pagination Next Page.
+icon_last = "svgs svgh angrr" # Pagination Last Page.
+icon_top = "svgs svgh angu" # Back to Top Button.
 
-#icon_read = "svgs fa-solid fa-glasses" # displayed in metadata on index and below title on page.
-#icon_date = "svgs fa-solid fa-calendar" # displayed in metadata on index and below title on page.
-#icon_info = "svgs fa-solid fa-circle-info" # displayed in metadata on index and below title on page for categories/tags
-#icon_author = "svgs fa-solid fa-pen-fancy" # displayed in metadata on index and below title on page.
+icon_read = "svgs fa-solid fa-glasses" # displayed in metadata on index and below title on page.
+icon_date = "svgs fa-solid fa-calendar" # displayed in metadata on index and below title on page.
+icon_info = "svgs fa-solid fa-circle-info" # displayed in metadata on index and below title on page for categories/tags
+icon_author = "svgs fa-solid fa-pen-fancy" # displayed in metadata on index and below title on page.
 
 ### Uncomment below line to load fontawesome, eg: <i class="fa-solid fa-heart"></i>
-#fontawesome = "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css"
+fontawesome = "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css"
 #icon_read = "svgs fa-solid fa-glasses" # displayed in metadata on index and below title on page.
 #icon_date = "svgs fa-solid fa-calendar" # displayed in metadata on index and below title on page.
 #icon_info = "svgs fa-solid fa-circle-info" # displayed in metadata on index and below title on page for categories/tags
