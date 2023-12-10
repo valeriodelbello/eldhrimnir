@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://eldhrimnir.valeriodelbello.net/</loc>
+    </url>
+    <url>
+        <loc>https://eldhrimnir.valeriodelbello.net/archive/</loc>
+    </url>
+    <url>
+        <loc>https://eldhrimnir.valeriodelbello.net/blog/</loc>
+    </url>
+    <url>
+        <loc>https://eldhrimnir.valeriodelbello.net/blog/hello-world/</loc>
+        <lastmod>2023-12-10</lastmod>
+    </url>
+    <url>
+        <loc>https://eldhrimnir.valeriodelbello.net/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://eldhrimnir.valeriodelbello.net/notes/</loc>
+    </url>
+    <url>
+        <loc>https://eldhrimnir.valeriodelbello.net/notes/first-test/</loc>
+        <lastmod>2023-12-10</lastmod>
+    </url>
+    <url>
+        <loc>https://eldhrimnir.valeriodelbello.net/notes/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://eldhrimnir.valeriodelbello.net/page/1/</loc>
+    </url>
+</urlset>
