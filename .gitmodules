@@ -1,3 +1,4 @@
 [submodule "themes/abridge"]
 	path = themes/abridge
-	url = https://github.com/jieiku/abridge.git
+	url = git@github.com:valeriodelbello/abridge.git
+	branch = main
