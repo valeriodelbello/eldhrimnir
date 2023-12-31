@@ -1,6 +1,5 @@
 +++
 title = "Hello World!"
-description = "Celebrating my first blog post!"
 date = 2023-12-10
 +++
 

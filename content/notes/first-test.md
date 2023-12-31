@@ -1,6 +1,5 @@
 +++
 title = "First Test"
-description = "Testing note. My first Zola document."
 date = 2023-12-10
 +++
 
